@@ -1,0 +1,1 @@
+# android-string-resource-file-generator
