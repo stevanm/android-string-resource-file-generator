@@ -1,1 +1,1 @@
-# android-string-resource-file-generator
+# Android strings.xml file generator
