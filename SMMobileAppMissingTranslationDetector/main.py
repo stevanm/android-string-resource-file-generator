@@ -2,10 +2,8 @@ import os
 import pandas as pd
 import re
 
-# Stevan Milic, TeleTrader, Android Developer
-
 # load .xlsx file from google docs (using google api)
-# docSheetUrl = "https://docs.google.com/spreadsheets/d/1hwDCUVGxxDalVG9Kt-vDHigvaTfirwLm13-veTzCgxc/edit#gid=2113229455"
+# docSheetUrl = "https://docs.google.com/spreadsheets/d/..."
 # dataframe_data = pd.read_excel(docSheetUrl)
 
 # load .xlsx file data (from local directory) ################################
